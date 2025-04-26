@@ -1,0 +1,8 @@
+.env
+venv
+venv-*
+venv_*
+env-*
+env-*
+env*
+data_analysis.ipynb
