@@ -35,5 +35,4 @@ SQL
 - **`symptom frequency`** ![Alt text](./visualizations/symptom_frequency.png)
 
 – Bar plot highlighting the most frequently reported symptoms.
-
 ---
