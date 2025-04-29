@@ -8,3 +8,4 @@ env*
 data_analysis.ipynb
 health_analysis.py
 .ipynb_checkpoints
+.ipynb_checkpoints\
