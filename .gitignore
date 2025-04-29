@@ -6,3 +6,5 @@ env-*
 env-*
 env*
 data_analysis.ipynb
+health_analysis.py
+.ipynb_checkpoints
